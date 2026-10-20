@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-slot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "setup": "bun setup.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3"
+  }
+}
