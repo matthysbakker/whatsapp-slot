@@ -109,3 +109,7 @@ WhatsApp alleen via de tools van whatsapp-slot. Die kunnen alleen sanne en mezel
 | `BEEPER_TOKEN` | | De sleutel direct meegeven, bijvoorbeeld voor tests |
 
 In Codex zet je een variabele met `env = { BEEPER_KEYCHAIN_SERVICE = "..." }` onder `[mcp_servers.whatsapp-slot]`.
+
+## Licentie
+
+MIT. Zie [LICENSE](LICENSE).
